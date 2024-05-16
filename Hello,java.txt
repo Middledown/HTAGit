@@ -2,5 +2,6 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello Git World");
 		System.out.println("second branch에서 작업한 내용");
+		System.out.println("3번째 작업 추가");
 	}
 }
